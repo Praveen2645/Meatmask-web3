@@ -1,4 +1,4 @@
-# html-fund-me-f23
+# html-fund-me-contract-metamask
 
 *[⭐️ (2:37:02) | Lesson 8: HTML Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=9422s)*
 
