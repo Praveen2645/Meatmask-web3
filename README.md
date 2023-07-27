@@ -1,2 +1,2 @@
-# Meatmask-web3
+# Metamask-web3
  a simple dapp which interacts with metamask, which can fund, withdraw and getBalance.
